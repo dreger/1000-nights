@@ -6,7 +6,7 @@ In 2001, Ray Bradbury [gave a speech at](http://www.youtube.com/watch?v=_W-r7ABr
 
 His goal is to make you into a collector of the metaphor -- filling your head with thoughts, theories, and ideas before bed, rather than completing another level in Angry Birds.
 
-This repository is my goal to 1.) follow Bradbury's advice, and 2.) create a list of reading material to fill 1,000 nights.
+This repository is to help me 1.) follow Bradbury's advice and 2.) create a list of reading material to fill 1,000 nights.
 
 _Hat tip to [Rands in Repose](http://randsinrepose.com/links/2013/11/30/1000-nights/) for originally alerting me to the video._
 
