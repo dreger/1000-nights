@@ -12,4 +12,4 @@ _Hat tip to [Rands in Repose](http://randsinrepose.com/links/2013/11/30/1000-nig
 
 ### Contributing
 
-Do you have a particular short story, poem, or essay that fits into this project? Check the the-list.md to make sure it's not already there, then create an issue with the title of the piece you want and a (optional) link. Happy reading.
+The hardest part of this challenge is to find the reading material, preferably in an online format. Any help tracking down stories, poems, and essays, and then putting them in the-list.md would be greatly appreciated. Please submit your item as pull request or issue. Happy reading.
