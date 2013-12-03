@@ -24,4 +24,4 @@ Start with [Shakespeare](http://en.wikipedia.org/wiki/William_Shakespeare), [Fro
 Start with [Huxley](http://en.wikipedia.org/wiki/Aldus_Huxley) and [Eiseley](http://en.wikipedia.org/wiki/Loren_Eiseley).
 
 ### Huxley
-- 1958 Collected Essays [.doc format] _Appears to be a collection of Huxley essays_ [link to .doc](http://aposta.uv.es/vicordo/firstpaper/etexts/1958collectedessays.doc)
+- 1958 Collected Essays _Appears to be a collection of Huxley essays_ "Wordsworth in the Tropics" [link to pdf on GDrive](https://docs.google.com/file/d/0B1wVj1bO9bocY0x2N0dXNzNkVWc/)
