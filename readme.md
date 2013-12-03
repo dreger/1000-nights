@@ -1,6 +1,6 @@
 ### Contributing
 
-The hardest part of this challenge is to find the reading material, preferably in an online format. Any help tracking down stories, poems, and essays (and attribution / links) would be greatly appreciated. To contribute:
+The hardest part of this challenge is finding the reading material, preferably in an online format. Any help tracking down stories, poems, and essays (and attribution / links) would be greatly appreciated. To contribute:
 
 1. Check [the list of resources](the-list.md) to see if your suggestion is already on there.
 2. **Please submit your items** as [new issues](https://github.com/kyledreger/1000-nights/issues/new) &mdash; I'll then go through and add them to the resources list and find a place for them on the schedule.
