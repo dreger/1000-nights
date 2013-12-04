@@ -2,9 +2,10 @@
 
 The hardest part of this challenge is finding the reading material, preferably in an online format. Any help tracking down stories, poems, and essays (and attribution / links) would be greatly appreciated. To contribute:
 
-1. Check [the list of resources](the-list.md) to see if your suggestion is already on there.
-2. **Please submit your items** as [new issues](https://github.com/kyledreger/1000-nights/issues/new) &mdash; I'll then go through and add them to the resources list and find a place for them on the schedule.
-3. Get reading! 
+1. Fork this repository.
+2. Read the readme.md in whichever folder you want to submit a piece (short stories / poems / essays)
+3. Create a pull request with your changesCheck [the list of resources](the-list.md) to see if your suggestion is already on there.
+4. Get reading!
 
 ## About
 In 2001, Ray Bradbury [gave a speech at](http://www.youtube.com/watch?v=_W-r7ABrMYU) (video starts around 11:00) the University of California where he encouraged young writers to read three things every night:
