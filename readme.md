@@ -4,6 +4,7 @@ The hardest part of this challenge is finding the reading material, preferably i
 
 1. Fork this repository.
 2. Read the readme.md in whichever folder you want to submit a piece (short stories / poems / essays)
+3. Check the [resources.md](resources.md) file to get a list of sites we've collected that need scoured!
 3. Create a pull request with your changes
 4. Get reading!
 
