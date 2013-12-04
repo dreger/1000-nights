@@ -8,6 +8,8 @@ The hardest part of this challenge is finding the reading material, preferably i
 3. Create a pull request with your changes
 4. Get reading!
 
+_Optionally: I've never had the chance to use by Bitcoin address for anything, but should you feel inclined to help me stay caffeinated - thanks! Address: 19FtJ8iTeirT9qqw9HMjE9n76KfBA33zEU_
+
 ## About
 In 2001, Ray Bradbury [gave a speech at](http://www.youtube.com/watch?v=_W-r7ABrMYU) (video starts around 11:00) the University of California where he encouraged young writers to read three things every night:
 
