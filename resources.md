@@ -13,3 +13,4 @@ Here is a list of resource sites that need combed through to find relevant piece
 - [PoemHunter's List of Shakespeare poems](http://www.poemhunter.com/william-shakespeare/)
 - [PoetStories](http://poestories.com/stories.php)
 - [The Writer's Almanac with Garrison Keillor](http://writersalmanac.publicradio.org) _A poem every day_
+- [Quotidiana](http://essays.quotidiana.org/) _The online compendium of 383 public-domain essays_
