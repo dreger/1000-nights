@@ -1,3 +1,6 @@
+### Goals
+1. To collect enough great literature to allow for the reading of one short story, poem, and essay each night for 1,000 nights.
+
 ### Contributing
 
 The hardest part of this challenge is finding the reading material, preferably in an online format. Any help tracking down stories, poems, and essays (and attribution / links) would be greatly appreciated. To contribute:
